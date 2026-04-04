@@ -22,3 +22,36 @@ HTML is not case sensitive
 <p>=</p>
 <body>=</body>
 ----------------------------------------------------------------
+HTML Attributes
+Attributes are used to add more information to the tag
+<html lang="en">
+----------------------------------------------------------------
+Heading Tag- Used to display headings in HTML
+h1 (most important), h2, h3, h4, h5, h6 (least important)
+
+**Don't use bigger tags h1 for font size, give bigger tags like h1 for importance. Because it can worse SEO
+---------------------------------------------------------------
+Paragraph Tag- used to add paragraphs in HTML
+---------------------------------------------------------------
+Anchor tag - used to add links to your page
+
+<a href=" abcdef "> Something </a> here href is an attribute -absolute link means going to another page
+
+<a href="/ abcdef"> Something </a> -relative link cause they are in same folder
+---------------------------------------------------------------
+Image Tag- Used to add images to your page
+<img src=" abcd " alt= "something"> -> You can use relative link also
+alt - if some error come render the name in the browser
+--------------------------------------------------------------
+<br> - Used to add next line(line breaks)to your page
+-------------------------------------------------------------
+Bold, italic & underline Tags - Used to highlight text in your page
+-------------------------------------------------------------
+Big & Small Tags - Used to display big & small text on your page
+--------------------------------------------------------------
+Hr Tag - Used to display a horizontal ruler, used to separate content
+-------------------------------------------------------------
+Subscript & Superscript Tag - Used to display a horizontal ruler, used to separate content
+-------------------------------------------------------------
+Pre tag- Used to display text as it is (without ignoring spaces & next line)
+--------------------------------------------------------------
