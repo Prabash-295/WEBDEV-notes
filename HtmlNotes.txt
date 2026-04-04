@@ -1,4 +1,24 @@
-Html - structure/layout
-Css - Style
+Html(Hyper Text Markup Language) - structure/layout
+Css(Cascading Style Sheets) - Style
 Js - Logic
+-----------------------------------------------------------------
+Html is the code that is used to structure a web page and its content.
+The component used to design the structure of websites are called HTML tags.
 
+Html Tag - A container for some content or other HTML tags
+-----------------------------------------------------------------
+<!DOCTYPE html> tells browser you are using HTML 5
+<html> root of an html document
+<head> container for metadata
+<title> page title
+<body> contains all data rendered by the browser
+<p> paragraph tag
+-----------------------------------------------------------------
+“Metadata in the <head> gives information about the webpage to browsers and search engines. It helps with SEO, proper display (like charset), and responsiveness (viewport).”
+-----------------------------------------------------------------
+HTML is not case sensitive
+
+<html>=<HTML>
+<p>=</p>
+<body>=</body>
+----------------------------------------------------------------
