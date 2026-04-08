@@ -55,3 +55,23 @@ Subscript & Superscript Tag - Used to display a horizontal ruler, used to separa
 -------------------------------------------------------------
 Pre tag- Used to display text as it is (without ignoring spaces & next line)
 --------------------------------------------------------------
+Layouts - Tags wont affect on website, but helpful work internally and seo rankings heavy impact.
+
+Semantic Tags are HTML elements that clearly describe their meaning to both the browser and the developer.
+
+<header>
+<main> 
+<footer>
+-------------------------------------------------------------------
+Div Tag = Div is a container used for other HTML elements
+BLOCK Element(takes full width).
+DIV is an non-semantic tag
+
+It will take full row
+and if you want to change color for sull section of code then use div tags
+
+------------------------------------------------------------------
+Span Tag = Span is also a container used for other HTML elements
+Inline Element (takes width as per size)
+
+
