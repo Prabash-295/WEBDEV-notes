@@ -73,5 +73,19 @@ and if you want to change color for sull section of code then use div tags
 ------------------------------------------------------------------
 Span Tag = Span is also a container used for other HTML elements
 Inline Element (takes width as per size)
+-------------------------------------------------------------------
+List Tag = Lists are used to represent real life list data.
+1)Unordered        2)Ordered
+-------------------------------------------------------------------
+Tables Tag = Tables are used to represent real life table data.
+---------------------------------------------------------------------
+Form Tag = Forms are used to collect data from the user.
+
+Eg- Sign up/login/help requests/contact me
+----------------------------------------------------------------------
+Label = Labels are used to define a caption or description for an input element in a form.
+Labels is the text that tells the user what to enter in a filed.
+They Make forms more organized and readable.
+-----------------------------------------------------------------------
 
 
